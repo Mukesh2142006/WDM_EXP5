@@ -1,5 +1,5 @@
-### EX5 Information Retrieval Using Boolean Model in Python
-### DATE: 24/05/2026
+## EX5 Information Retrieval Using Boolean Model in Python
+## DATE: 24/05/2026
 ## NAME: Mukesh B
 ## REG NO: 212223230128
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
